@@ -1,1 +1,2 @@
-# DICE-VR-
+# DICE-VR-GAME
+
